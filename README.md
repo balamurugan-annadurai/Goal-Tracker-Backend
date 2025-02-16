@@ -17,7 +17,7 @@ This is the **backend** for the **Goal Tracker** application, built using **Node
 - **Express.js** – REST API framework.  
 - **MongoDB & Mongoose** – NoSQL database.  
 - **JWT (JSON Web Tokens)** – Secure authentication.  
-- **Nodemailer** – Email & SMS notifications.  
+- **Nodemailer** – Email notifications.  
 
 ## 🤝 Connect with Me
 
